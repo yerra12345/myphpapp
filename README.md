@@ -1,3 +1,3 @@
 # myphpapp
 My Test PHP Application
-This is for testing CI
+This is for testing CD
